@@ -63,11 +63,3 @@ python logistic regression.py
 - **Test Data**: `test.csv`
 
 Ensure both CSV files are in the same directory as the Python scripts.
-
-## Author
-
-DRDO Internship - Day 3
-
-## License
-
-[Add your license information here]
