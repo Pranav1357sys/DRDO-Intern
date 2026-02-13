@@ -1,4 +1,4 @@
-# Day 4 — Polynomial Regression
+# Day 4 & 5 — Polynomial Regression
 
 Today I experimented with polynomial regression models and simple model-search utilities.
 
