@@ -1,6 +1,6 @@
 # Day 4 & 5 — Polynomial Regression
 
-Today I experimented with polynomial regression models and simple model-search utilities.
+For day 4 and 5 I experimented with polynomial regression models and simple model-search utilities.
 
 ## Project structure
 
