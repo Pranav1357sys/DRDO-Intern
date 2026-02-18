@@ -76,7 +76,7 @@ python dataset2/poly_model_search.py
 *   Decision Trees and Random Forests.
 *   Neural Networks basics.
 *   More comprehensive datasets and real-world examples.
-*   I have started with Deep Learning now .
+*   I have started with Deep Learning and I am trying to study and understand the topics well enough to implement them in real life .
 ## 👤 Author
 
 **Pranav Singh Rawat**
